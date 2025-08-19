@@ -9,7 +9,7 @@ namespace CBTSWE2.Aula01.Repositorio
 {
     public class LivroRepositorioCSV
     {
-        private static readonly string noveArquivoCSV = "C:\\Users\\aluno\\Desktop\\SWE2\\CBTSWE2.Aula01\\CBTSWE2.Aula01\\Repositorio\\livros.csv";
+        private static readonly string noveArquivoCSV = "C:\\Users\\aluno\\source\\repos\\CBTSWE2\\CBTSWE2.Aula01\\CBTSWE2.Aula01\\Repositorio\\livros.csv";
 
         private ListaDeLeitura _paraLer;
         private ListaDeLeitura _lendo;
@@ -78,3 +78,4 @@ namespace CBTSWE2.Aula01.Repositorio
         }
     }
 }
+
